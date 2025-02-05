@@ -1,4 +1,4 @@
-# ranked in no particular order: 
+ranked in no particular order: 
 
 1. Always enable 2FA to secure your accounts whenever possible. There are many 2FA options available but the most secure one is going to be a hardware authenticator such as a Yubikey which you can buy online for around $50. If you can't spend money and need a free option, you can opt for a software TOTP authenticator app instead (I recommend 2FAS authenticator app for Android/iOS). Some websites don't support both hardware and software TOTP authenticators, in which case your only option is to use either Email 2FA or SMS 2FA as a last resort. Email 2FA and SMS 2FA should only be used when all other options are unavailable as they aren't very secure. 
 
