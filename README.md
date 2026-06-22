@@ -25,4 +25,4 @@ ranked in no particular order:
 
 12. Avoid leaving devices unattended in public places and enable automatic screen locking whenever possible. Make sure to use a strong device PIN/password.
 
-13. Maintain regular, encrypted backups of your important data. Keep at least one backup offline or disconnected from your computer to protect against ransomware, accidental deletion, and hardware failure. Periodically verify that your backups can be restored successfully.
+13. Maintain encrypted backups of your important data. Keep at least one backup offline or disconnected from your computer to protect against ransomware, accidental deletion, and hardware failure. Periodically verify that your backups can be restored successfully.
